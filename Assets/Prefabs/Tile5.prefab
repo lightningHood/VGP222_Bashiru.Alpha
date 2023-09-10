@@ -187,6 +187,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: RoadWorksBarrierHigh
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 5b4713f62ba2ebf46837b00dc07475de, type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b4713f62ba2ebf46837b00dc07475de, type: 3}
 --- !u!4 &5885595517909247667 stripped
