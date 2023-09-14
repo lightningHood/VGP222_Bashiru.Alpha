@@ -1299,7 +1299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a6e76e3d4f0a8a47b4a4092fd5adf8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  forwardSpeed: 5
+  forwardSpeed: 10
   laneDistance: 2.5
   jumpForce: 12
   Gravity: -20
